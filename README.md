@@ -4,7 +4,7 @@ This is one of the projects I work on as I follow Aurelien Geron's Hands-On Mach
 
 I built a Machine Learning project on predicting California housing price based on the StatLib library. It is a full-on project that goes through framing the problem, analyzing data, using regression algorithms on the training data, evaulating algorithm performance, and then testing it on the test data. Also looks into pipelining the project.
 
-**To do an end-to-end Machine Learning project we need to do the following steps**
+## To do an end-to-end Machine Learning project we need to do the following steps
 1. Understand the requirements of the business.
 2. Acquire the dataset.
 3. Visualize the data to understand it better and develop our intuition.
@@ -14,7 +14,7 @@ I built a Machine Learning project on predicting California housing price based 
 7. Present your solution to the team.
 8. Launch, monitor, and maintain your system.
 
-**Project overview**
+## Project overview
 
 * A machine learning regression model that is trained on California Housing Prices dataset from the StatLib repository.
 * We are doing supervised learning here and our aim is to do predictive analysis
@@ -27,3 +27,5 @@ I built a Machine Learning project on predicting California housing price based 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib  
 **ML Book:** https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291
+
+## Results
