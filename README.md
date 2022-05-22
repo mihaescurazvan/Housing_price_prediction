@@ -29,3 +29,4 @@ I built a Machine Learning project on predicting California housing price based 
 **ML Book:** https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291
 
 ## Results
+The best model we found was the RandomForestRegressor. We obtain the best solution by setting the max_features hyperparameter to 6 and the n_estimators hyperparameter to 100. The RMSE score for this combination is 49,095$.
